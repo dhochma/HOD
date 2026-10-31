@@ -1,0 +1,14 @@
+# פרטיות: לעולם לא לשמור בריפו מידע אישי של מועמדים או לקוחות
+*.pdf
+*.doc
+*.docx
+cv/
+cvs/
+candidates/
+private/
+
+# קבצים מקומיים
+.DS_Store
+Thumbs.db
+.claude/settings.local.json
+.env
