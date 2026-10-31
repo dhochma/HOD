@@ -1,0 +1,5 @@
+# הגדרות Netlify: האתר הוא HTML סטטי, מתפרסם ישירות מתיקיית השורש.
+# אין שלב build.
+[build]
+  publish = "."
+  command = ""
