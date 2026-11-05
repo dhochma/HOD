@@ -9,6 +9,8 @@
 - [ ] **דודי:** ב-Netlify להפעיל התראות מייל לטופס (Forms ← Form notifications)
 - [ ] **דודי:** למזג את ענף העבודה ל-`main`, כדי שהאתר יעלה לאוויר
 
+- [ ] **HodHunter:** להשלים את `docs/feasibility-hodhunter.md` אחרי חשבוניות Make, OpenAI, Airtable וClaude מדודי, ולאשר סדר עבודה וארכיטקטורה (מסמך ההעברה, סעיף 9)
+
 ## בהמשך
 - [ ] להשלים את סעיפי `[להשלים]` ב-`docs/business.md` (אזור, ותק, מודל עסקי)
 - [ ] לחבר את טופס האתר ל-Airtable דרך Make: פנייה חדשה ← רשומה ב-Airtable ← התראה
